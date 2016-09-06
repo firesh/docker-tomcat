@@ -1,4 +1,4 @@
-FROM daocloud.io/ifu2016/ubuntu:latest
+FROM firesh/ubuntu:latest
 
 # Install wget
 RUN apt-get update &&\
